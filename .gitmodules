@@ -1,4 +1,0 @@
-[submodule "Saturn-Core"]
-	path = Saturn-Core
-	url = git@github.com:JoshDanielWalker/Saturn-Core.git
-	branch = master
